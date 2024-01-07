@@ -1,0 +1,37 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+
+#container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+#box{
+    height:200px;
+    width:200px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+h3{
+    margin-left: 20px;
+}
+
+input{
+    height:8px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding: 17px;
+}
+
+#input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
