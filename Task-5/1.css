@@ -1,0 +1,30 @@
+body{
+    margin:0px;
+    padding:0px;
+    font-family: sans-serif;
+    color:black;
+    font-size: 30px;
+}
+
+#head{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    height:100px;
+    background-color: yellow;
+}
+
+#cart{
+    height:50px;
+    border-radius: 25px;
+}
+
+#menu{
+    margin-right: 10px;
+}
+
+span{
+    margin-right: 20px;
+    margin-left: 20px;
+}
