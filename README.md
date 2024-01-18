@@ -11,3 +11,5 @@
 # Task-5
 -> Applying a consistent header design with a logo, navigation menu, and cart icon.
 -> Customizing the font, color, and alignment of the header elements.
+# Task-6
+-> Implement interactive filters to refine items.
